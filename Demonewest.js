@@ -4,7 +4,7 @@
 
    /*console.log("Wamp".toUpperCase())*/
 
-   /*console.log(Math.floor(Math.random()*10))*/
+   /*console. log(Math.floor(Math.random()*10));*/
 
 
    /*let space1 = "X"
@@ -185,53 +185,42 @@ else {
 
  const*/
 
- /*let order = (size, drink) => {
+/* let order = (size, drink) => {
      console.log(`Your order is a ${size} ${drink}`);
  }
  
  order("large","Tea");
  order("Medium","Tea");
  order("Large","Coffee");
- order("Medium","Coffee");
+ order("Medium","Coffee");*/
 
 
-let num3 = "abyes"
+/*let num3 = "pip"
 let rev = num3.split("").reverse().join("");
 
 console.log(rev);
 if (num3 == rev){
     console.log(`words ${num3} & ${rev} is a palindrome`)
-}
-else{
-    console.log("is NOT a palindrome")}
+}*/
 
-   let time = 0700
-   let time2 = 0800
-   let option3 = 
-   let placeOfWork = `at the office`
-   let townOfHome = `at home in Manchester`
-   let goingOut = `commuting to work`
-   let */
+/*function multiplyNumbers(x,y){
+    return x,y}
+    }
+    console.log(multiplyNumbers(9,5))
+    
+    const multNum = (a,b) => {return a + b}{
+}:
+    console.log(multnum)(2,3) 
 
-   /*let orderCount = 0;
+    */
 
-const takeOrder = (topping1, topping2) => {
- console.log(`Sub with ${topping1} and ${topping2} and ${topping3} and ${topping4} and ${topping5}`);
- orderCount++;
-}
-takeOrder("pineapple", "Mushrooms");
-takeOrder("tomato", "cheese");
-takeOrder("onions" , "olives")
+let song = [
+    "ben - Sandstorm",
+    "chris - happy",
+    "adam - whatevers new"
+];
+console.log(song)
 
-
-console.log(orderCount)*/
-
-let orderCount = 0;
-
-
-const takeOrder = (topping1, topping2 ,topping3, topping4, topping5) => {
- console.log(`Sub sandwich with ${topping1}, ${topping2}, ${topping3}, ${topping4} and ${topping5} on Italian bread`);
-}
-takeOrder("lettuce","cucumber","tomatoes","chicken","mayo")
-
+song[2] = "drake - in my feelings"
+console.log(song)
 
